@@ -1,0 +1,16 @@
+{
+  "name": "upload_a_lambda_function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+      "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-install": "^0.6.0",
+    "gulp-zip": "^3.0.2",
+    "node-aws-lambda": "^0.1.7",
+    "run-sequence": "^1.1.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
